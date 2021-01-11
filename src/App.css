@@ -24,3 +24,11 @@
 .social-links:hover {
   color: #0A66C2;
 }
+
+.card-show {
+  display: block;
+}
+
+.card-hidden {
+  display: none;
+}
